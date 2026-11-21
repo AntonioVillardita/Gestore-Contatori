@@ -14,7 +14,8 @@ Progetto che nasce dall'esigenza di un amico, che in quanto proprietario di un n
 
 ## Installazione
 
-**È richiesta la versione minima v3.7 di Python.**
+**È richiesta la versione minima v3.7 di Python.**  
+[Aggiorna](https://www.python.org/downloads/)
 
 **Installa il Framework grafico moderno da terminale:**  
 
