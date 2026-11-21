@@ -15,4 +15,4 @@ Progetto che nasce dall'esigenza di un amico, che in quanto proprietario di un n
 ## Installazione
 
 Scarica il Framework grafico moderno:  
-`pip install customtkinter`
+```pip install customtkinter```
