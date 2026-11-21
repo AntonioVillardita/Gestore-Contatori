@@ -16,6 +16,6 @@ Progetto che nasce dall'esigenza di un amico, che in quanto proprietario di un n
 
 Scarica il Framework grafico moderno:  
 
-```bash
+```
 pip install customtkinter
 ```
